@@ -25,3 +25,4 @@ else:
 
 comanda = [nome, idade, mesa, pedido]
 print(comanda)
+
